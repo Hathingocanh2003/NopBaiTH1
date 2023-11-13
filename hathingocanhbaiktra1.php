@@ -1,3 +1,12 @@
+
+/*Bai kiem tra 
+Trac nghiem : 
+Cau 1 : 10
+Cau 2 : b-20
+Cau 3 : d
+Cau 4 : a
+Cau 5 : a*/
+
 <?php
 // Bài 1:
 // Hàm kiểm tra số nguyên tố
